@@ -1,7 +1,7 @@
 MATLABfunctions
 ======
 
-A collection of methods, functions, and formulas that I've used in [MATLAB](https://en.wikipedia.org/wiki/MATLAB) for Models at [UC]("University of Cincinnati").
+A collection of methods, functions, and formulas that I've used in [MATLAB](https://en.wikipedia.org/wiki/MATLAB) for Models at [UC](http://www.uc.edu "University of Cincinnati").
 
 ### Includes
 1. Formulas
